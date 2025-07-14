@@ -14,3 +14,12 @@ StockMarketPrediction/
 ├── src/                # Source code files
 ├── requirements.txt    # Python package dependencies
 └── README.md           # This file
+
+## ✅ To Do
+- [ ] Load stock data
+- [ ] Visualize trends
+- [ ] Train ML model
+- [ ] Predict & evaluate
+- [ ] Automate daily reports
+
+---
